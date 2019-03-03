@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 卧槽，还可以这样玩!666
 
 You can use the [editor on GitHub](https://github.com/0728xjf/fish/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
